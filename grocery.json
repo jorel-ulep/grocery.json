@@ -1,5 +1,4 @@
-[
-    {
+{
         "id": 1,
         "text": "Banana",
         "quantity": 1
@@ -9,4 +8,3 @@
         "text": "Apple",
         "quantity": 4
     }
-]
