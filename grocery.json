@@ -1,17 +1,17 @@
 [
     {
         "id": 1,
-        "text": "Banana",
+        "productName": "Banana",
         "quantity": 1
     },
     {
         "id": 2,
-        "text": "Appl",
+        "productName": "Apple",
         "quantity": 1
     },
     {
         "id": 3,
-        "text": "Kiwi",
+        "productName": "Kiwi",
         "quantity": 4
     }
 ]
